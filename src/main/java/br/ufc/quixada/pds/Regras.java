@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * Classe responsavel por pelas regras do.
+ * Classe responsavel por pelas regras do jogo
  *
  */
 public class Regras {
